@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/textView"
+        android:text="Shouvik"
+        android:textSize="20dp"
+        android:gravity="left"/>
+
+    <ImageView
+        android:id="@+id/row_img"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:paddingRight="200dp" />
+
+
+
+</LinearLayout>
